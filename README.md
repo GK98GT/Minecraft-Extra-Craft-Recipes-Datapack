@@ -5,7 +5,7 @@ To install the pack:
 * type %appdata%\.minecraft\saves
 * choose the world that you want to put the datapack in
 * open the datapacks folder or create it if it doesnt exist
-* put the datapack in and you're done
+* put the rar and unzip it and you're done
 
 The pack is made by GK98.
 
