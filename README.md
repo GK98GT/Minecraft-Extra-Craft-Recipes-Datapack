@@ -9,4 +9,4 @@ To install the pack:
 
 The pack is made by GK98.
 
-If you have any suggestions or question just dm GK98#3095 on Discord.
+If you have any suggestions or questions just dm GK98#3095 on Discord.
