@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      "#X#",
+      " O "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "X": {
+        "item": "minecraft:iron_chestplate"
+      },
+      "O": {
+        "item": "minecraft:tripwire_hook"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_horse_armor"
+    }
+  }
