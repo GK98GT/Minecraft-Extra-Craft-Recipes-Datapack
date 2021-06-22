@@ -1,0 +1,1 @@
+tellraw @a {"text": "Extra Recipes V1.0 by GK98.", "color": "#0000FF"}
